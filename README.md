@@ -7,27 +7,35 @@ Sou um **Desenvolvedor Full Stack** focado em criar soluções robustas, escalá
 ### 🛠️ Tecnologias e Habilidades
 
 #### **Linguagens de Programação**
-* **Java** (Desenvolvimento robusto e orientado a objetos)
-* **JavaScript** (Lógicas dinâmicas e interativas)
-* **HTML5** & **CSS3** (Estruturação e estilização web)
+![Java](https://shields.io)
+![JavaScript](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 
 #### **Frameworks & Tecnologias Web**
-* **Backend:** Spring Boot, Spring Data JPA, Hibernate, Thymeleaf
-* **Frontend:** AngularJS, Bootstrap (Design responsivo)
+![Spring Boot](https://shields.io)
+![Hibernate](https://shields.io)
+![AngularJS](https://shields.io)
+![Bootstrap](https://shields.io)
+* *Também utilizo Spring Data JPA e Thymeleaf para integração completa e renderização dinâmica.*
 
 #### **APIs & Integrações**
-* Criação e consumo de **APIs REST** e arquiteturas **SOAP**
+![REST API](https://shields.io)
+![SOAP](https://shields.io)
 
 #### **Bancos de Dados**
-* **SQL Server** & **MySQL** (Modelagem, queries e persistência de dados)
-* **H2 Database** (Ambientes de testes e desenvolvimento ágil)
+![Microsoft SQL Server](https://shields.io)
+![MySQL](https://shields.io)
+![H2](https://shields.io)
 
 #### **Ferramentas, Testes & Servidores**
-* **Automação & CI/CD:** Maven, Jenkins, GitLab CI
-* **Controle de Versão:** Git, GitHub, GitLab
-* **Testes Automatizados:** JUnit, Mockito
-* **Servidores de Aplicação:** WildFly
-* **Testes de API:** Postman
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![GitLab](https://shields.io)
+![Jenkins](https://shields.io)
+![Maven](https://shields.io)
+![Postman](https://shields.io)
+* *Ambientes de servidores e testes: WildFly, JUnit e Mockito.*
 
 ---
 
