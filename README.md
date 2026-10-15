@@ -7,34 +7,20 @@ Sou um **Desenvolvedor Full Stack** focado em criar soluções robustas, escalá
 ### 🛠️ Tecnologias e Habilidades
 
 #### **Linguagens de Programação**
-![Java](https://shields.io)
-![JavaScript](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<img src="https://shields.io" alt="Java" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="HTML" /> <img src="https://shields.io" alt="CSS" />
 
 #### **Frameworks & Tecnologias Web**
-![Spring Boot](https://shields.io)
-![Hibernate](https://shields.io)
-![AngularJS](https://shields.io)
-![Bootstrap](https://shields.io)
+<img src="https://shields.io" alt="Spring Boot" /> <img src="https://shields.io" alt="Hibernate" /> <img src="https://shields.io" alt="AngularJS" /> <img src="https://shields.io" alt="Bootstrap" />
 * *Também utilizo Spring Data JPA e Thymeleaf para integração completa e renderização dinâmica.*
 
 #### **APIs & Integrações**
-![REST API](https://shields.io)
-![SOAP](https://shields.io)
+<img src="https://shields.io" alt="REST API" /> <img src="https://shields.io" alt="SOAP" />
 
 #### **Bancos de Dados**
-![Microsoft SQL Server](https://shields.io)
-![MySQL](https://shields.io)
-![H2](https://shields.io)
+<img src="https://shields.io" alt="SQL Server" /> <img src="https://shields.io" alt="MySQL" /> <img src="https://shields.io" alt="H2" />
 
 #### **Ferramentas, Testes & Servidores**
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![GitLab](https://shields.io)
-![Jenkins](https://shields.io)
-![Maven](https://shields.io)
-![Postman](https://shields.io)
+<img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="GitLab" /> <img src="https://shields.io" alt="Jenkins" /> <img src="https://shields.io" alt="Maven" /> <img src="https://shields.io" alt="Postman" />
 * *Ambientes de servidores e testes: WildFly, JUnit e Mockito.*
 
 ---
