@@ -33,7 +33,7 @@ Sou um **Desenvolvedor Full Stack** focado em criar soluções robustas, escalá
 
 ### 📈 Conecte-se Comigo
 
-* **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/higoeduardo/)
+* **LinkedIn:** [linkedin.com/in/higoeduardo](https://www.linkedin.com/in/higoeduardo/)
 * **E-mail:** [higoedu@gmail.com]
 
 ---
