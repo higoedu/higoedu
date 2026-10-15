@@ -8,7 +8,7 @@ Sou um **Desenvolvedor Full Stack** focado em criar soluções robustas, escalá
 
 | Categoria | Tecnologias e Ferramentas |
 | :--- | :--- |
-| **☕ Linguagens** | Java • JavaScript • HTML5 • CSS3 |
+| **☕ Linguagens** | Java • JavaScript • HTML • CSS |
 | **🌱 Frameworks & Web** | Spring Boot • Spring Data JPA • Hibernate • AngularJS • Thymeleaf • Bootstrap |
 | **🔌 APIs** | REST API • SOAP Architecture |
 | **🗄️ Bancos de Dados** | Microsoft SQL Server • MySQL • H2 Database |
